@@ -8,7 +8,7 @@
 I'm a data scientist passionate about using data and machine learning techniques to make an impact in helping solve critical problems.  
 
 📚 **Data Science Intern at AFB International** – predicting and optimizing ingredient ratios for pet food flavors  
-🧠 **FujitaFlow** – AI-enhanced tornado analysis and tracking app
+🧠 **FujitaFlow** – AI-enhanced tornado analysis and tracking app\n
 🤖 **ML President of Bruin Machine Learning & Analytics** – decomposing songs into wavelengths to understand the architecture of beat drops
 
 ---
