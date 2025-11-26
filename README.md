@@ -35,7 +35,7 @@ I'm a data scientist passionate about using data and machine learning techniques
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### Transit Deserts: Who The Los Angeles Metro System Leaves Behind
 
