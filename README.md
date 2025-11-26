@@ -25,13 +25,13 @@ I'm a data scientist passionate about using data and machine learning techniques
 
 **Statistics & Machine Learning:** K-Means/HDBSCAN/DBSCAN CLustering, Logistic/Linear Regression, Large Language Models, Text-Embeddings, Dimension Reduction (UMAP/PCA), Silhouette Scores
 
-### ML President of Bruin Machine Learning & Analytics**
+### ML President of Bruin Machine Learning & Analytics
 
 ---
 
 ## Programming  
-### Languages: Python, SQL, R, C++, Java, Tableau, Matlab   
-### Libraries & Frameworks: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, LangChain, Pinecone
+### Languages: Python, SQL, R, C++, Java, Tableau, Matlab
+### Libraries & Frameworks: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, LangChain, Pinecone, Streamlit, SBERT/OpenAI
 
 ---
 
