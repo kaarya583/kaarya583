@@ -1,6 +1,7 @@
 # Hi, I'm Aarya Khanna  
 Statistics & Data Science @ UCLA | Machine Learning Scientist | Urban Geography, Network Science, Meterology
-/nSt. Louis → Los Angeles | kaarya583@gmail.com | [LinkedIn](https://www.linkedin.com/in/aaryakhanna/)
+
+St. Louis → Los Angeles | kaarya583@gmail.com | [LinkedIn](https://www.linkedin.com/in/aaryakhanna/)
 
 ---
 
