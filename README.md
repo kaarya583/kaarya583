@@ -26,6 +26,8 @@ I'm a data scientist passionate about using data and machine learning techniques
 **Statistics & Machine Learning:** K-Means/HDBSCAN/DBSCAN CLustering, Logistic/Linear Regression, Large Language Models, Text-Embeddings, Dimension Reduction (UMAP/PCA), Silhouette Scores
 
 ### ML President of Bruin Machine Learning & Analytics
+ - Lead the ML aspect of projects involving stock market portfolio optimization, F1-race predictions, and audio wavelength decomposition
+ - Teach a weekly ML curriculum to 30+ members covering foundational topics in depth as well as high-level overview of recent advances and current research
 
 ---
 
@@ -38,16 +40,20 @@ I'm a data scientist passionate about using data and machine learning techniques
 ## Projects
 
 ### Transit Deserts: Who The Los Angeles Metro System Leaves Behind
-
+- Interface which geostatistically analyzes the LA public transportation system's routes and connectivity
+- Provides insight into which geographical, socioeconomical, natural, and other demographical factors are underrepresented
 
 ### TwistEd
+- App which gives real-time weather alerts, provides safest recommended travel routes, and offers an interactive chatbot to answer historical questions
+- Includes an educational section to learn about different types of severe weather and advised precautions to take
 
 ### CoursePlanner AI Chatbot  
-Leverages UCLA's Developer API, LangChain, & Pinecone to help students create optimized course plans based on their unique interests  
+- Leverages UCLA's Developer API, LangChain, & Pinecone to help students create optimized course plans based on their unique interests
+- Takes in natural language inputs and contextualizes top matches when justifying recommendations
 
 ### Analogy LLM  
-Building an LLM which helps explain mathematical concepts in the context of another field through powerful analogies  
-
+- Building an LLM which helps explain mathematical concepts in the context of another field through powerful analogies
+  
 ---
 
 ## Let’s Connect!  
