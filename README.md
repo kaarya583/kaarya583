@@ -7,7 +7,7 @@ Statistics & Data Science @ UCLA | Data Scientist, Machine Learning Scientist | 
 I'm a data scientist passionate about using data and machine learning techniques to make an impact in helping solve critical problems.  
 
 ## Experience
-### Data Science Intern at AFB International**
+### Data Science Intern at AFB International
 - Built classification algorithms and data pipelines to predict and optimize flavor preformance using ingredient ratios and trial metadata.
 - Restructured trial processes to boost statistical power by blocking on key features correlating with historical flavor preferences.
 - Used I-optimal trial selection to idenitfy which trials to prioritize for maximum Information Gain and reducing uncertainty in the model feedback loop.
@@ -16,7 +16,7 @@ I'm a data scientist passionate about using data and machine learning techniques
 
 **Statistics & Machine Learning:** XGBoost/SHAP, RandomForest, Logistic/Linear Regression, K-Means Clustering, ANOVA/chi-square tests, Regularization, Dimension-Reduction (UMAP, PCA)
   
-### Research Intern at UCLA Artificial Intelligence & Cultural Heritage Laboratory**
+### Research Intern at UCLA Artificial Intelligence & Cultural Heritage Laboratory
 - Clustered questions from 15,000+ large-scale text documents into groups of semantic similarity, leveraging automated pronoun disambiguation.
 - Built a hybrid pipeline composed of initial embedding screenings to filter out unlikley matches before passing the top options to a cross-attention based model with the relevant context window to maximize the quality of cluster assignments.
 - Automated cluster quality evaluation by comparing the distance from each vector in a given cluster to the centroid of all vectors in the cluster, essentially reverse engineering the "cluster theme". This "cluster theme" was then given as a baseline metric for an LLM to numerically grade clustering compactness, providing contextual reasoning for its decisions.
